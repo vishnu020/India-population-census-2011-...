@@ -12,8 +12,13 @@
 This repository consists of the following :
 
 1.Datase1.xlsv:"india-state-district-cencus-2011-cs.csv"
+
 2.Dataset2.xlsv : "india-districts-literacy_rate-census-2011.csv"
+
 3.README.xtx
+
 4.power_bi data.xlsx
+
 5.power_bi.pbix
+
 6.sqlfile.sql
